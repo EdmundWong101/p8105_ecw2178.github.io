@@ -1,9 +1,18 @@
 ---
-title: "About"
+title: "About me"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
 ---
 
-### About this site
+### About me 
 
-Sometimes you need to say a bit about the site -- how it was made, where it's hosted, where the source code can be found. 
+Hello! My name is Edmund Wong and I'm currently a second-year student in the MS Biostatistics program at the Mailman School of Public Health at Columbia University. 
 
-If this is for a project or analysis, I recommend giving some details about the R package versions that you used to create the content.
+This website was made using Rmd files and Github. The source code can be found on my Github page. 
+
+### Resume
+
+<embed src="site_libs/Edmund_Wong_2025_Resume.pdf" width="100%" height="800px" type="application/pdf">

@@ -11,8 +11,13 @@ Welcome! Things are currently under construction but feel free to roam around
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F17fb5bd9a52cdc14bfaafe2bf9a0f010%2Ftenor.gif&f=1&nofb=1&ipt=370bd9c5b63614fd4680aa592c978c21c35c9f6c0ae90c543bc0152ba1caf581)
 
+
+
+
 ## Navigate to other website pages
 * [About me](about.html)
+
+
 
 ## Links to other websites
 * [P8105](https://p8105.com/)
