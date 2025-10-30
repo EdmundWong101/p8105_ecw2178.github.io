@@ -15,4 +15,4 @@ This website was made using Rmd files and Github. The source code can be found o
 
 ### Resume
 
-<embed src="files/Edmund_Wong_2025_Resume.pdf" width="100%" height="800px" type="application/pdf">
+[Download my résumé (PDF)](files/Edmund_Wong_2025_Resume.pdf)
