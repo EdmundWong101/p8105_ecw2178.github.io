@@ -13,8 +13,8 @@ Welcome! Things are currently under construction but feel free to roam around
 
 ---
 
-## Navigate to pages on this website
-* [About me](about.html)
+### Navigate to pages on this website
 
-## Links to other websites
+* [About me](about.html)
+* [Plots and Dashboards](plotly_dashboards.html)
 * [P8105](https://p8105.com/)
