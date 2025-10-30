@@ -9,7 +9,7 @@ output:
 
 Welcome! Things are currently under construction but feel free to roam around
 
-![](/Users/edmundwong/Downloads/p8105_ecw2178.github.io/files/orb-of-confusion-spongebob-1791698264.gif)
+<embed src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fu5PkUnaB7zkAAAAC%2Forb-of-confusion-spongebob.gif&f=1&nofb=1&ipt=c8a185e1b0fedb3c20cb6307e7119a4544c7ecf40a6d8e0d28cfa82254dbcad7">
 
 ---
 

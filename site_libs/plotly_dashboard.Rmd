@@ -1,6 +1,5 @@
 ---
 title: "plotly_dashboard"
-title: "Edmund's (definitely not) barebones websites"
 output: 
   html_document:
     toc: true
