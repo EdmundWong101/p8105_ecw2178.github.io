@@ -5,6 +5,10 @@ navbar:
   right:
     - text: "About me"
       href: about.html
+    - text: "Plotly"
+      href: plotly_dashboard.html
+    - text: "Dashboard"
+      href: dashboard_rest_inspec.html
     - icon: fa-envelope fa-lg
       href: mailto:<ecw2178@cumc.columbia.edu>
     - icon: fa-github fa-lg
