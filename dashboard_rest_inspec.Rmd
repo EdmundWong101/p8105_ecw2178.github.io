@@ -24,6 +24,10 @@ rest_inspec = rest_inspec %>%
   drop_na()
 ```
 
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
 ### Restaurant Inspections by Cuisine
 
 ```{r}
@@ -35,9 +39,6 @@ rest_cuisine = rest_inspec %>%
   plot_ly(x = ~score, y = ~cuisine_description, type = "box", colors = "pink")
 rest_cuisine
 ```
-
-Column {data-width=650}
------------------------------------------------------------------------
 
 
 ### Restaurant Inspections by Borough
