@@ -9,7 +9,8 @@ output:
 
 Welcome! Things are currently under construction but feel free to roam around
 
-<embed src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fu5PkUnaB7zkAAAAC%2Forb-of-confusion-spongebob.gif&f=1&nofb=1&ipt=c8a185e1b0fedb3c20cb6307e7119a4544c7ecf40a6d8e0d28cfa82254dbcad7">
+
+<embed src = "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FZeuynZj7msg%2Fmaxresdefault.jpg">
 
 ---
 
