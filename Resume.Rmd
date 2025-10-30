@@ -1,0 +1,14 @@
+---
+title: "Edmund's (definitely not) barebones websites"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+### Resume
+
+[Download my résumé (PDF)](https://github.com/EdmundWong101/p8105_ecw2178.github.io/blob/main/files/Edmund_Wong_2025_Resume.pdf)
+
+<embed src="https://github.com/EdmundWong101/p8105_ecw2178.github.io/blob/main/files/Edmund_Wong_2025_Resume.pdf" width="100%" height="800px" type="application/pdf"> 
