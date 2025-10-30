@@ -9,12 +9,13 @@ output:
 
 Welcome! Things are currently under construction but feel free to roam around
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F17fb5bd9a52cdc14bfaafe2bf9a0f010%2Ftenor.gif)
+![](/Users/edmundwong/Downloads/p8105_ecw2178.github.io/orb-of-confusion-spongebob-1791698264.gif)
 
 ---
 
-### Navigate to pages on this website
+### Navigate to other pages on this website
 
 * [About me](about.html)
+* [Resume](Resume.html)
 * [Plots and Dashboards](plotly_dashboards.html)
 * [P8105](https://p8105.com/)
