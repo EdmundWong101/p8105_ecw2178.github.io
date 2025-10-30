@@ -24,10 +24,23 @@ rest_inspec = rest_inspec %>%
   drop_na()
 ```
 
+### Restaurant Inspections by Cuisine
+
+```{r}
+rest_cuisine = rest_inspec %>% 
+  group_by(cuisine_description) %>%
+  filter(n() > 500) %>%  
+  ungroup() %>%
+  mutate(cuisine_description = fct_reorder(cuisine_description, score, median)) %>% 
+  plot_ly(x = ~score, y = ~cuisine_description, type = "box", colors = "pink")
+rest_cuisine
+```
+
 Column {data-width=650}
 -----------------------------------------------------------------------
 
-### Barplot
+
+### Restaurant Inspections by Borough
 
 ```{r}
 rest_borough = rest_inspec %>% 
@@ -40,7 +53,7 @@ rest_borough
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Scatterplot
+### Relationship between Number of Violations and Inspection Score
 
 ```{r}
 rest_scat = rest_inspec %>%
@@ -48,17 +61,5 @@ rest_scat = rest_inspec %>%
   summarise(mean_score = mean(score, na.rm = TRUE), n_violations = n()) %>%
   plot_ly(x = ~n_violations, y = ~mean_score, type = "scatter", mode = "markers", marker = list(opacity = 0.5))
 rest_scat
-```
-
-### Boxplot
-
-```{r}
-rest_cuisine = rest_inspec %>% 
-  group_by(cuisine_description) %>%
-  filter(n() > 500) %>%  
-  ungroup() %>%
-  mutate(cuisine_description = fct_reorder(cuisine_description, score, median)) %>% 
-  plot_ly(x = ~score, y = ~cuisine_description, type = "box", colors = "pink")
-rest_cuisine
 ```
 
