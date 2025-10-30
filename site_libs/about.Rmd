@@ -16,3 +16,6 @@ This website was made using Rmd files and Github. The source code can be found o
 ### Resume
 
 [Download my résumé (PDF)](https://github.com/EdmundWong101/p8105_ecw2178.github.io/blob/main/files/Edmund_Wong_2025_Resume.pdf)
+
+<embed src="https://github.com/EdmundWong101/p8105_ecw2178.github.io/blob/main/files/Edmund_Wong_2025_Resume.pdf" width="100%" height="800px" type="application/pdf"> 
+
