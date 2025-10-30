@@ -17,5 +17,5 @@ Welcome! Things are currently under construction but feel free to roam around
 
 * [About me](about.html)
 * [Resume](Resume.html)
-* [Plots and Dashboards](plotly_dashboards.html)
+* [Plots and Dashboards](dashboard_rest_inspec.html)
 * [P8105](https://p8105.com/)
